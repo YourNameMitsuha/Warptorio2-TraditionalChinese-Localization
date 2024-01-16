@@ -1,0 +1,11 @@
+{
+  "name": "Warptorio2_Language_TraditionalChinese",
+  "title": "Warptorio2繁體中文翻譯模組",
+  "description": "Warptorio2繁體中文翻譯模組\nThis is the Traditional Chinese translate mod for Warptorio2",
+  "author": "YourName_Mitsuha",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "warptorio2 >= 1.3.10"
+  ]
+}
